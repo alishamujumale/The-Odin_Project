@@ -1,0 +1,54 @@
+p {
+  color: red;
+}
+.C1{
+  color:green;
+  background-color: wheat
+
+}
+#2{
+  color:blue;
+  background-color: yellow;
+}
+.C3{
+  color:purple;
+  background-color: pink;
+}
+#4{
+  color:orange;
+  background-color: cyan;  
+}
+div {
+  color:red;
+  background-color: black;
+}
+.inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
+}
+
+.img .I1 {
+  height: auto;
+  width: 300px;
+}
+
+.img .I2 {
+  height: 400px;
+  width: 200px;
+}
+.container .text {
+  background-color: yellow;
+  color: #E00000;
+  font-size: 20px;
+  text-align: center;
+}
